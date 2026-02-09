@@ -1,4 +1,4 @@
-📄 AI-Based Resume Content Optimization and ATS Design Impact
+#📄 AI-Based Resume Content Optimization and ATS Design Impact#
 
 📌 Overview
 
@@ -118,11 +118,6 @@ Missing details and weak phrasing negatively impact ATS performance
 
 AI-based optimization guided by real ATS feedback consistently improves ATS scores
 
-🔐 Data Availability
-
-The dataset contains resume-related information and is therefore not publicly shared.
-It is available from the author upon reasonable request.
-
 📚 References
 
 Background references related to ATS, resume parsing, and AI-based recruitment systems are included in the research paper. All experimental results are based on original data generated in this study.
@@ -132,7 +127,7 @@ Background references related to ATS, resume parsing, and AI-based recruitment s
 Muhammad Asad Khalid
 Department of Computer Science
 University of Karachi
-📧 official.iss.uok@gmail.com
+📧 Muhammad.Asad.Khalid@outlook.co
 
 📄 License
 
